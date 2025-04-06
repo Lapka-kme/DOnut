@@ -9,7 +9,7 @@
 <style>
 </style>
 <body>
-<h1 style = 'color:red'>Мир пончиков</h1>
-<img src="/uploads/2023/02/donut.png">
+<h1 style = 'color:red; text-align: center'>Мир пончиков</h1>
+<img style = 'margin-left: 15%' src="/uploads/2023/02/donut.png">
 </body>
 </html>
